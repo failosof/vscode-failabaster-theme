@@ -17,5 +17,9 @@
         "path": "./themes/failabaster-color-theme.json"
       }
     ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/failosof/vscode-failabaster-theme.git"
   }
 }
