@@ -1,0 +1,21 @@
+{
+  "name": "failabaster",
+  "displayName": "failabaster",
+  "description": "failosof's theme base on alabaster",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.97.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "failabaster",
+        "uiTheme": "vs",
+        "path": "./themes/failabaster-color-theme.json"
+      }
+    ]
+  }
+}
